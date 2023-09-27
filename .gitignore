@@ -6,4 +6,9 @@ figures/
 files/
 models/
 archive/
+archive1/
 *.hdf5
+0figures/
+inv-pcann-RN/
+pcann3/
+poisson/archive/
